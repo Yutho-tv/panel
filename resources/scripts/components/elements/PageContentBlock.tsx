@@ -32,9 +32,9 @@ const PageContentBlock: React.FC<PageContentBlockProps> = ({ title, showFlashKey
                             target={'_blank'}
                             css={tw`no-underline text-neutral-500 hover:text-neutral-300`}
                         >
-                            fr-somme-web01;
+                            fr-somme-web01 
                         </a>
-                        v1.0.3
+                        - v1.0.3
                     </p>
                 </ContentContainer>
             </>
